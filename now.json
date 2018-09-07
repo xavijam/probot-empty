@@ -1,0 +1,10 @@
+{
+  "name": "probot-empty",
+  "alias": "probot-empty.now.sh",
+  "env": {
+    "NODE_ENV": "production",
+    "APP_ID": "@probot-app-id",
+    "WEBHOOK_SECRET": "@probot-webhook-secret",
+    "PRIVATE_KEY_BASE64": "@probot-private-key-base64"
+  }
+}
