@@ -1,6 +1,6 @@
 # probot-empty
 
-> A GitHub App built with [Probot](https://probot.github.io) that A Probot app that commits an empty commit if any user comments something specific
+> A GitHub App built with [Probot](https://probot.github.io) that commits an empty commit if any user comments something specific
 
 ## Setup
 
