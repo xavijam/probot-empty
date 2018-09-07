@@ -7,7 +7,7 @@ If a user comments in a Pull Request something specific, bot will push an empty 
 You can especify the required files where the bot needs to check before pushing the commit. Also, you can edit all interaction messages.
 
 ## Installation
-After installing the app, create .github/probot-empty.yml in the default branch to enable it:
+After installing the app, create `.github/probot-empty.yml` in the default branch to enable it:
 
 ```yml
 # user comment to push the comment
