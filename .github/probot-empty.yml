@@ -1,9 +1,0 @@
-magicWords: deploy staging
-requiredFiles: [.circleci/config.yml, config/scripts/deploy-staging]
-messages: 
-  appEnabled: Hello there, I'll make an empty commit whenever you comment `<%= magicWords %>` in this PR.
-  appDisabled: Hello there, I will not help you to push any empty commit until these file(s) <%= files %> are present
-  fileNotPresent: I need the following files in order to make an empty commit. `<%= files %>`
-  exact: If you want me to make an empty commit just type `<%= magicWords %>`, and nothing else.
-  trigger: Pushing the empty commit...
-  commit: Empty commit
