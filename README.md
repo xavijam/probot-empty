@@ -21,6 +21,10 @@ If you have suggestions for how probot-empty could be improved, or want to repor
 
 For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
+## Deploy
+
+Just run `now` and it will be updated.
+
 ## License
 
 [ISC](LICENSE) © 2018 Javier Álvarez Medina <xavijam@gmail.com> (https://xavijam.github.io/probot-empty)
